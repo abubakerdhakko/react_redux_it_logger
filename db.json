@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "message": "change ram og pc 1",
+      "attention": false,
+      "tech": "C",
+      "date": "2020-03-16T14:37:43.165Z",
+      "id": 6
+    },
+    {
+      "message": "bbbb",
+      "attention": true,
+      "tech": "A",
+      "date": "2020-03-17T11:24:23.215Z",
+      "id": 7
+    },
+    {
+      "message": "n n",
+      "attention": true,
+      "tech": "B",
+      "date": "2020-03-17T11:24:35.264Z",
+      "id": 8
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    }
+  ]
+}
